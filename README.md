@@ -1,2 +1,2 @@
-# Heart-attack-analysis
-An analysis of the famous Heart Attack dataset from Kaggle
+# Heart Attack Analysis
+An analysis of a dataset 
